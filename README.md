@@ -2,7 +2,7 @@
 
 AWS command to manage S3 buckets and objects
 
-The name of the mentee i collected the HTML file from is named Dominion
+The mentee i collected the HTML file from is named Dominion
 
 ## The Commands used and response gotten include:
 
