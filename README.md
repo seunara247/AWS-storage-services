@@ -1,10 +1,10 @@
-## AWS-storage-services
+# AWS-storage-services
 
 AWS command to manage S3 buckets and objects
 
 The name of the mentee i collected the HTML file from is named Dominion
 
-# The Commands used include:
+## The Commands used and response gotten include:
 
 ~ $ aws s3 mb s3://b-u-c-k-e-t-practical
 
