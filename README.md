@@ -4,6 +4,8 @@ AWS command to manage S3 buckets and objects
 
 The name of the mentee i collected the HTML file from is named Dominion
 
+# The Commands used include:
+
 ~ $ aws s3 mb s3://b-u-c-k-e-t-practical
 
 make_bucket: b-u-c-k-e-t-practical
